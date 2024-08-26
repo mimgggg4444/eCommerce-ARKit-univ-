@@ -1,3 +1,5 @@
+* 본 프로젝트 아이폰 전용
+
 
 - 추가 깃허브 사이트
 - https://github.com/adityathakurxd/fusionar?tab=readme-ov-file
