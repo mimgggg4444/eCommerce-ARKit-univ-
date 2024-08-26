@@ -1,3 +1,13 @@
+
+- 추가 깃허브 사이트
+- https://github.com/adityathakurxd/fusionar?tab=readme-ov-file
+- 위 깃허브 사이트 실행 불가능
+
+- https://github.com/Sattishh/MyWaifu
+  
+- https://github.com/topics/augmented-reality-applications?l=dart&o=desc&s=forks
+<- 사이트 정리
+
 https://docs.google.com/presentation/d/1lQ56TYh-u7XCN63n3wGj7sJ6UZ-1d15GQh7-cbjbkOA/edit?usp=sharing
 
 # 졸프
